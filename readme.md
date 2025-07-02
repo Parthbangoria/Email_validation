@@ -20,7 +20,7 @@ A simple, responsive contact form built using **HTML, CSS, and JavaScript** with
 
 > _(Add a screenshot here if available. Example placeholder below)_
 
-![Contact Form Preview](https://via.placeholder.com/600x300?text=Contact+Form+Preview)
+![Contact Form Preview](/img.png)
 
 ---
 
