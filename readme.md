@@ -18,8 +18,6 @@ A simple, responsive contact form built using **HTML, CSS, and JavaScript** with
 
 ## 📸 Preview
 
-> _(Add a screenshot here if available. Example placeholder below)_
-
 ![Contact Form Preview](/img.png)
 
 ---
